@@ -1,0 +1,9 @@
+[
+  {
+    "name": "GLMR",
+    "address": "0x1111111111111111111111111111111111111111",
+    "symbol": "GLMR",
+    "decimals": 18,
+    "logoURI": "https://docs.moonbeam.network/assets/images/Moonbeam-Favicon-50.png"
+  }
+]

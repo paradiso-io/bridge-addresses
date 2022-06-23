@@ -1,0 +1,9 @@
+[
+  {
+    "name": "BNB",
+    "address": "0x1111111111111111111111111111111111111111",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+  }
+]
