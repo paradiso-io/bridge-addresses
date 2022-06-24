@@ -12,7 +12,7 @@
     "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "77130218797b64a166a5c63065a1165096bc303bea1fae0a96c6575a3f750cd8",
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
     "minBridge": "15000000000000000000"
   }
 ]
