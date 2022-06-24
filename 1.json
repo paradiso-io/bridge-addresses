@@ -54,5 +54,21 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/dotoracle/evm-contract-lists/main/assets/frax-share.png",
     "minBridge": "5000000000000000000"
+  },
+  {
+    "name": "AAVE",
+    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110",
+    "minBridge": "200000000000000000"
+  },
+  {
+    "name": "MAKER",
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png?1585191826",
+    "minBridge": "20000000000000000"
   }
 ]

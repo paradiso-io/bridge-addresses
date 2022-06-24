@@ -4,6 +4,15 @@
     "address": "0x1111111111111111111111111111111111111111",
     "symbol": "BNB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png",
+    "minBridge": "100000000000000000"
+  },
+  {
+    "name": "BUSD",
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "logoURI": "77130218797b64a166a5c63065a1165096bc303bea1fae0a96c6575a3f750cd8",
+    "minBridge": "15000000000000000000"
   }
 ]
