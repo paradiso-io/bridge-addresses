@@ -1,0 +1,10 @@
+[
+  {
+    "name": "OKT",
+    "address": "0x1111111111111111111111111111111111111111",
+    "symbol": "OKT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13708/small/WeChat_Image_20220118095654.png?1642471094",
+    "minBridge": "1000000000000000000"
+  }
+]
