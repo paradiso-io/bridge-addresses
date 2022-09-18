@@ -2,6 +2,7 @@
   {
     "name": "GFC Faucet",
     "address": "0xde8466caf6e4c18c0d8385dca1d1f1c49f36cf65",
-    "symbol": "GFC"
+    "symbol": "GFC",
+    "type": "ERC721"
   }
 ]
