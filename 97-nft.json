@@ -1,8 +1,8 @@
 [
   {
-    "name": "GFC Faucet",
-    "address": "0x9838c4943C203a8478B21E233e4DF3BAaeeD8770",
-    "symbol": "GFC",
+    "name": "DTO Wrapped GFC Faucet",
+    "address": "0xcec2087Bf17DB9fc8Cd4613Dd1f1D52674293075",
+    "symbol": "dGFC",
     "type": "ERC721"
   }
 ]
