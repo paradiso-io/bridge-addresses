@@ -4,5 +4,16 @@
     "address": "0xde8466caf6e4c18c0d8385dca1d1f1c49f36cf65",
     "symbol": "GFC",
     "type": "ERC721"
+  },
+  {
+    "name": "DTO Wrapped dtoCEP78(Avalanche Testnet)",
+    "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
+    "symbol": "ddtoNFTCEP78",
+    "type": "ERC721",
+    "originChainId": 96945816564243,
+    "contractHash": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
+    "originContractAddress": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
+    "originSymbol": "dtoNFTCEP78",
+    "originName": "dtoCEP78"
   }
 ]
