@@ -4,6 +4,17 @@
     "address": "0xc1257078d620eC14c435B089Af938E77662Ff027",
     "symbol": "GFC",
     "type": "ERC721"
+    },
+    {
+      "name": "DTO Wrapped dtoCEP78(Goerli)",
+      "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
+      "symbol": "dtoNFTCEP78",
+      "type": "ERC721",
+      "originChainId": 96945816564243,
+      "contractHash": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+      "originContractAddress": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+      "originSymbol": "dtoNFTCEP78",
+      "originName": "dtoCEP78"
     }
   ]
   

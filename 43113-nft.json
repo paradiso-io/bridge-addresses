@@ -8,11 +8,11 @@
   {
     "name": "DTO Wrapped dtoCEP78(Avalanche Testnet)",
     "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
-    "symbol": "ddtoNFTCEP78",
+    "symbol": "dtoNFTCEP78",
     "type": "ERC721",
     "originChainId": 96945816564243,
-    "contractHash": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
-    "originContractAddress": "805347b595cc24814f0d50482069a1dba24f9bfb2823c6e900386f147f25754b",
+    "contractHash": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+    "originContractAddress": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
     "originSymbol": "dtoNFTCEP78",
     "originName": "dtoCEP78"
   }

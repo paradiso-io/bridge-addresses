@@ -1,14 +1,19 @@
 [
   {
   "name": "GFC Faucet",
-  "address": "0x564D49e680DE8C34d3aB34c0976eb8FF0272a4a8",
+  "address": "0xde8466caf6e4c18c0d8385dca1d1f1c49f36cf65",
   "symbol": "ERC721",
   "type": "ERC721"
   },
   {
-    "name": "DTO Wrapped GFC Faucet",
-    "address": "0xd7Fb85C2F71795A7821BFA0859D273D51df41477",
-    "symbol": "dGFC",
-    "type": "ERC721"
+    "name": "DTO Wrapped dtoCEP78(Goerli)",
+    "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
+    "symbol": "dtoNFTCEP78",
+    "type": "ERC721",
+    "originChainId": 96945816564243,
+    "contractHash": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+    "originContractAddress": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+    "originSymbol": "dtoNFTCEP78",
+    "originName": "dtoCEP78"
   }
 ]
