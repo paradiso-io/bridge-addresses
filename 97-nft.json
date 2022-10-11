@@ -1,5 +1,11 @@
 [
   {
+  "name": "ERC721 Mock",
+  "address": "0x564D49e680DE8C34d3aB34c0976eb8FF0272a4a8",
+  "symbol": "ERC721",
+  "type": "ERC721"
+  },
+  {
     "name": "DTO Wrapped GFC Faucet",
     "address": "0xd7Fb85C2F71795A7821BFA0859D273D51df41477",
     "symbol": "dGFC",
