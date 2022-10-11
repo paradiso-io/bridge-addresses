@@ -1,8 +1,8 @@
 [
   {
-  "name": "GFC Faucet",
-  "address": "0xde8466caf6e4c18c0d8385dca1d1f1c49f36cf65",
-  "symbol": "ERC721",
+  "name": "BFT Faucet",
+  "address": "0xAFCCAD0624A148377953D39c6785817a6f25683a",
+  "symbol": "BFT",
   "type": "ERC721"
   },
   {

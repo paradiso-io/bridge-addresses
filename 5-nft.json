@@ -1,12 +1,12 @@
 [
     {
-    "name": "GFC Faucet",
-    "address": "0xc1257078d620eC14c435B089Af938E77662Ff027",
-    "symbol": "GFC",
+    "name": "GFT Faucet",
+    "address": "0x6F6721c1F1E7C35aae4C59352B436E62bA04bD62",
+    "symbol": "GFT",
     "type": "ERC721"
     },
     {
-      "name": "DTO Wrapped dtoCEP78(Goerli)",
+      "name": "DTO Wrapped dtoCEP78 (Goerli)",
       "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
       "symbol": "dtoNFTCEP78",
       "type": "ERC721",
