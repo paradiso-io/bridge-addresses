@@ -1,12 +1,12 @@
 [
     {
-    "name": "GFT Faucet",
-    "address": "0x6F6721c1F1E7C35aae4C59352B436E62bA04bD62",
-    "symbol": "GFT",
+    "name": "PFT Faucet",
+    "address": "0xc1257078d620eC14c435B089Af938E77662Ff027",
+    "symbol": "PFT",
     "type": "ERC721"
     },
     {
-      "name": "DTO Wrapped CEP78 Faucet (Binance Testnet)",
+      "name": "DTO Wrapped CEP78 Faucet (Mumbai Matic)",
       "address": "0xb9C855d914DD99634E8A4D30AEAb23763D9C5B19",
       "symbol": "dtoNFTCEP78",
       "type": "ERC721",
