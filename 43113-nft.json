@@ -6,6 +6,26 @@
     "type": "ERC721"
   },
   {
+    "name": "DTO Wrapped GFT Faucet (Avalanche Testnet)",
+    "address": "0xb9C855d914DD99634E8A4D30AEAb23763D9C5B19",
+    "symbol": "dGFT",
+    "type": "ERC721",
+    "originChainId": 97,
+    "originContractAddress": "0x6F6721c1F1E7C35aae4C59352B436E62bA04bD62",
+    "originSymbol": "GFT",
+    "originName": "GFT Faucet"
+  },
+  {
+    "name": "DTO Wrapped BFT Faucet (Avalanche Testnet)",
+    "address": "0x4Dd80818F5437a6C3fb12F91319f9ba8081CA121",
+    "symbol": "dBFT",
+    "type": "ERC721",
+    "originChainId": 97,
+    "originContractAddress": "0xAFCCAD0624A148377953D39c6785817a6f25683a",
+    "originSymbol": "BFT",
+    "originName": "BFT Faucet"
+  },
+  {
     "name": "DTO Wrapped dtoCEP78 (Avalanche Testnet)",
     "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
     "symbol": "dtoNFTCEP78",
