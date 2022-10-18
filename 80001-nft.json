@@ -6,7 +6,7 @@
     "type": "ERC721"
     },
     {
-      "name": "DTO Wrapped CEP78 Faucet (Mumbai Matic)",
+      "name": "CEP78 Faucet",
       "address": "0xb9C855d914DD99634E8A4D30AEAb23763D9C5B19",
       "symbol": "dtoNFTCEP78",
       "type": "ERC721",

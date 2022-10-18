@@ -6,7 +6,7 @@
     "type": "ERC721"
     },
     {
-      "name": "DTO Wrapped BFT Faucet (Goerli)",
+      "name": "BFT Faucet",
       "address": "0x4Dd80818F5437a6C3fb12F91319f9ba8081CA121",
       "symbol": "dBFT",
       "type": "ERC721",
@@ -16,7 +16,7 @@
       "originName": "BFT Faucet"
     },
     {
-      "name": "DTO Wrapped CEP78 Faucet (Binance Testnet)",
+      "name": "CEP78 Faucet",
       "address": "0xb9C855d914DD99634E8A4D30AEAb23763D9C5B19",
       "symbol": "dtoNFTCEP78",
       "type": "ERC721",

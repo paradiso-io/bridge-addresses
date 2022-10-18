@@ -26,7 +26,7 @@
     "originName": "BFT Faucet"
   },
   {
-    "name": "dtoCEP78",
+    "name": "CEP78 Faucet",
     "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
     "symbol": "dtoNFTCEP78",
     "type": "ERC721",
