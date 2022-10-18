@@ -6,7 +6,7 @@
     "type": "ERC721"
   },
   {
-    "name": "DTO Wrapped GFT Faucet (Avalanche Testnet)",
+    "name": "GFT Faucet",
     "address": "0xb9C855d914DD99634E8A4D30AEAb23763D9C5B19",
     "symbol": "dGFT",
     "type": "ERC721",
@@ -16,7 +16,7 @@
     "originName": "GFT Faucet"
   },
   {
-    "name": "DTO Wrapped BFT Faucet (Avalanche Testnet)",
+    "name": "BFT Faucet",
     "address": "0x4Dd80818F5437a6C3fb12F91319f9ba8081CA121",
     "symbol": "dBFT",
     "type": "ERC721",
@@ -26,7 +26,7 @@
     "originName": "BFT Faucet"
   },
   {
-    "name": "DTO Wrapped dtoCEP78 (Avalanche Testnet)",
+    "name": "dtoCEP78",
     "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
     "symbol": "dtoNFTCEP78",
     "type": "ERC721",
