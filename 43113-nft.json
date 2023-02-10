@@ -27,7 +27,7 @@
   },
   {
     "name": "CEP78 Faucet",
-    "address": "0xd7fb85c2f71795a7821bfa0859d273d51df41477",
+    "address": "0x0e40409824c9E1C53e5aBAD37c1B12A84181eD5e",
     "symbol": "dtoNFTCEP78",
     "type": "ERC721",
     "originChainId": 96945816564243,
