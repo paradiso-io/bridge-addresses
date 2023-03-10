@@ -1,0 +1,9 @@
+[
+  {
+    "name": "SHM",
+    "address": "0x1111111111111111111111111111111111111111",
+    "symbol": "SHM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27937/large/shm.png"
+  }
+]
