@@ -7,6 +7,13 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png"
   },
   {
+    "name": "Wrapped BTC",
+    "address": "0xaFb85F66FC8ad94805b586BE06dAc02876a0a5E5",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+  },
+  {
     "name": "ERC20 Mock",
     "address": "0x52e8c6695cdefc13a8b30f92b03d3256e9660c2c",
     "symbol": "ERC20Mock",
