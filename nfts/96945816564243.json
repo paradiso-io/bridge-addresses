@@ -1,0 +1,37 @@
+[
+  {
+    "originChainId": 43113,
+    "contractHash": "d2605b4544842bced2eeed6d3c541e220cd4942ad39cbd5e3ea14d475cdf194b",
+    "originContractAddress": "0x564D49e680DE8C34d3aB34c0976eb8FF0272a4a8",
+    "originSymbol": "GFC",
+    "originName": "AFT Faucet"
+  },
+  {
+    "originChainId": 5,
+    "contractHash": "f964182887c6303fdce244ee55a494ee0148c3ebdc9cd0a7d831a6797da7b770",
+    "originContractAddress": "0x6F6721c1F1E7C35aae4C59352B436E62bA04bD62",
+    "originSymbol": "GFT",
+    "originName": "GFT Faucet"
+  },
+  {
+    "originChainId": 97,
+    "contractHash": "0600b749fd06f2b01be4295b0f33206443f44e4a29c7c16d0c0af91560d021fc",
+    "originContractAddress": "0xAFCCAD0624A148377953D39c6785817a6f25683a",
+    "originSymbol": "BFT",
+    "originName": "BFT Faucet"
+  },
+  {
+    "originChainId": 80001,
+    "contractHash": "dd740ad9eb84f5353483e11ca2b14d90dc12c7aea5ea742891b5501092b2574f",
+    "originContractAddress": "0xc1257078d620eC14c435B089Af938E77662Ff027",
+    "originSymbol": "PFT",
+    "originName": "PFT Faucet"
+  },
+  {
+    "originChainId": 96945816564243,
+    "contractHash": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+    "originContractAddress": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+    "originSymbol": "CEPF",
+    "originName": "CEP78 Faucet"
+  }
+]

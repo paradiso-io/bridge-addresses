@@ -1,0 +1,62 @@
+[
+  {
+    "name": "BNB",
+    "symbol": "dBNB",
+    "decimals": 18,
+    "originChainId": 97,
+    "fee": "1000000000000000",
+    "originContractAddress": "0x1111111111111111111111111111111111111111",
+    "originSymbol": "BNB",
+    "contractHash": "b93e3eb79f6db08cc49dba6e44e6fecbee7d16fe5b45d32205547c747c48d5b1"
+  },
+  {
+    "name": "ETH",
+    "symbol": "dETH",
+    "decimals": 18,
+    "originChainId": 42,
+    "fee": "1000000000000000",
+    "originContractAddress": "0x1111111111111111111111111111111111111111",
+    "originSymbol": "ETH",
+    "contractHash": "71a4fb803b350cb76f73f9bde7f4a7d4ac6157dada5075d5b76815bc3c4f285c"
+  },
+  {
+    "name": "TOMO",
+    "symbol": "dTOMO",
+    "decimals": 18,
+    "originChainId": 89,
+    "fee": "10000000000000000",
+    "originContractAddress": "0x1111111111111111111111111111111111111111",
+    "originSymbol": "TOMO",
+    "contractHash": "0dac4093a53b6da13d3273d9aef1e5ea9ab26d724eaf4490a340dbf5d50c0ca4"
+  },
+  {
+    "name": "MATIC",
+    "symbol": "dMATIC",
+    "decimals": 18,
+    "originChainId": 80001,
+    "fee": "10000000000000000",
+    "originContractAddress": "0x1111111111111111111111111111111111111111",
+    "originSymbol": "MATIC",
+    "contractHash": "e3622a465f1a7106c58287f2cba4a3465a83429f668208e177a354169206145a"
+  },
+  {
+    "name": "AVAX",
+    "symbol": "dAVAX",
+    "decimals": 18,
+    "originChainId": 43113,
+    "fee": "10000000000000000",
+    "originContractAddress": "0x1111111111111111111111111111111111111111",
+    "originSymbol": "AVAX",
+    "contractHash": "a0037a4b404bab48051b0270ccf6875021398d337a01bb524e5d955e80750b19"
+  },
+  {
+    "name": "GLMR",
+    "symbol": "dGLMR",
+    "decimals": 18,
+    "originChainId": 1287,
+    "fee": "10000000000000000",
+    "originSymbol": "GLMR",
+    "originContractAddress": "0x1111111111111111111111111111111111111111",
+    "contractHash": "bfcea66cc14acfdec570b92532b8e5cc9187e1cdec4b57719ba527a6c8ac1abf"
+  }
+]
