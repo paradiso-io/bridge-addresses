@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BTC",
+    "address": "0x1111111111111111111111111111111111111111",
+    "symbol": "BTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+    "supportedChainId": [5, 13116011111351]
+  }
+]
