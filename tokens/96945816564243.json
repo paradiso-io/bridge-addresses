@@ -58,5 +58,15 @@
     "originSymbol": "GLMR",
     "originContractAddress": "0x1111111111111111111111111111111111111111",
     "contractHash": "bfcea66cc14acfdec570b92532b8e5cc9187e1cdec4b57719ba527a6c8ac1abf"
+  },
+  {
+    "name": "BTC Wrapped",
+    "symbol": "dWBTC",
+    "decimals": 8,
+    "originChainId": 43113,
+    "fee": "0",
+    "originSymbol": "WBTC",
+    "originContractAddress": "0x163e98bAe55ebAc01bFE63B1EAa9078E548f6a05",
+    "contractHash": "6f9ff95d960405779447e64f1381d5f1cdee2d807e47f4e9fe0079d9548b9c8a"
   }
 ]
