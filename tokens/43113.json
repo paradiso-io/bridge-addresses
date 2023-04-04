@@ -18,7 +18,6 @@
     "address": "0x163e98bAe55ebAc01bFE63B1EAa9078E548f6a05",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png",
-    "supportedChainId": [43113, 13116011111351]
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
   }
 ]
