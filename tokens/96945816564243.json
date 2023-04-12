@@ -7,7 +7,8 @@
     "fee": "1000000000000000",
     "originContractAddress": "0x1111111111111111111111111111111111111111",
     "originSymbol": "BNB",
-    "contractHash": "b93e3eb79f6db08cc49dba6e44e6fecbee7d16fe5b45d32205547c747c48d5b1"
+    "contractHash": "b93e3eb79f6db08cc49dba6e44e6fecbee7d16fe5b45d32205547c747c48d5b1",
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
   },
   {
     "name": "ETH",
@@ -17,7 +18,8 @@
     "fee": "1000000000000000",
     "originContractAddress": "0x1111111111111111111111111111111111111111",
     "originSymbol": "ETH",
-    "contractHash": "71a4fb803b350cb76f73f9bde7f4a7d4ac6157dada5075d5b76815bc3c4f285c"
+    "contractHash": "71a4fb803b350cb76f73f9bde7f4a7d4ac6157dada5075d5b76815bc3c4f285c",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "name": "TOMO",
@@ -27,7 +29,8 @@
     "fee": "10000000000000000",
     "originContractAddress": "0x1111111111111111111111111111111111111111",
     "originSymbol": "TOMO",
-    "contractHash": "0dac4093a53b6da13d3273d9aef1e5ea9ab26d724eaf4490a340dbf5d50c0ca4"
+    "contractHash": "0dac4093a53b6da13d3273d9aef1e5ea9ab26d724eaf4490a340dbf5d50c0ca4",
+    "logoURI": "https://assets.coingecko.com/coins/images/3416/large/Asset_59_2x.png?1582948925"
   },
   {
     "name": "MATIC",
@@ -37,7 +40,8 @@
     "fee": "10000000000000000",
     "originContractAddress": "0x1111111111111111111111111111111111111111",
     "originSymbol": "MATIC",
-    "contractHash": "e3622a465f1a7106c58287f2cba4a3465a83429f668208e177a354169206145a"
+    "contractHash": "e3622a465f1a7106c58287f2cba4a3465a83429f668208e177a354169206145a",
+    "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png?1624446912"
   },
   {
     "name": "AVAX",
@@ -47,7 +51,8 @@
     "fee": "10000000000000000",
     "originContractAddress": "0x1111111111111111111111111111111111111111",
     "originSymbol": "AVAX",
-    "contractHash": "a0037a4b404bab48051b0270ccf6875021398d337a01bb524e5d955e80750b19"
+    "contractHash": "a0037a4b404bab48051b0270ccf6875021398d337a01bb524e5d955e80750b19",
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png"
   },
   {
     "name": "GLMR",
@@ -57,7 +62,8 @@
     "fee": "10000000000000000",
     "originSymbol": "GLMR",
     "originContractAddress": "0x1111111111111111111111111111111111111111",
-    "contractHash": "bfcea66cc14acfdec570b92532b8e5cc9187e1cdec4b57719ba527a6c8ac1abf"
+    "contractHash": "bfcea66cc14acfdec570b92532b8e5cc9187e1cdec4b57719ba527a6c8ac1abf",
+    "logoURI": "https://assets.coingecko.com/coins/images/22459/large/glmr.png?1641880985"
   },
   {
     "name": "Wrapped BTC",
