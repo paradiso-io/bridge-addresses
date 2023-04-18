@@ -11,7 +11,7 @@
     "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
   },
   {
-    "name": "ETH",
+    "name": "Ethereum",
     "symbol": "dETH",
     "decimals": 18,
     "originChainId": 42,
