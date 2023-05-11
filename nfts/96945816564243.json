@@ -1,7 +1,7 @@
 [
   {
     "originChainId": 43113,
-    "contractHash": "5f2939cee848ed3ba936fa1422fc15c5455bb8ede84573fb0cd808e2c2994963",
+    "contractHash": "aac0ecd67407e5226929fa720be3f9da2e0dedd570c218d13d8068887d408d77",
     "originContractAddress": "0x564D49e680DE8C34d3aB34c0976eb8FF0272a4a8",
     "originSymbol": "GFC",
     "originName": "AFT Faucet"
