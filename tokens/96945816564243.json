@@ -1,5 +1,15 @@
 [
   {
+    "name": "Faucet Token",
+    "symbol": "FTERC20",
+    "decimals": 18,
+    "originChainId": 96945816564243,
+    "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
+    "address": "0x8751f86Efccb66CA9B7D45aAB96B8175087ca83c",
+    "fee": "0",
+    "supportedChainIds": [96945816564243, 43113]
+  },
+  {
     "name": "BNB",
     "symbol": "dBNB",
     "decimals": 18,
@@ -75,15 +85,5 @@
     "originSymbol": "WBTC",
     "originContractAddress": "0x163e98bAe55ebAc01bFE63B1EAa9078E548f6a05",
     "contractHash": "27dcb2efc403047a3f9fdad8acf879e3630706c9a38d28b8ef44201b1581fb3e"
-  },
-  {
-    "name": "Faucet Token",
-    "symbol": "FTERC20",
-    "decimals": 18,
-    "originChainId": 96945816564243,
-    "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
-    "address": "0x8751f86Efccb66CA9B7D45aAB96B8175087ca83c",
-    "fee": "0",
-    "supportedChainIds": [96945816564243, 43113]
   }
 ]
