@@ -15,7 +15,7 @@
     "originChainId": 13116011111351,
     "originContractAddress": "0x1111111111111111111111111111111111111111",
     "originSymbol": "BTC",
-    "supportedChainId": [5, 13116011111351]
+    "supportedChainIds": [5, 13116011111351]
   },
   {
     "name": "ERC20 Mock",
