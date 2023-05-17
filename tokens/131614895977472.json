@@ -178,5 +178,70 @@
     "originSymbol": "OKT",
     "contractHash": "846bdd17135c450e3d066f44b6c48d32fdb4bb43e937f03ba43475d1e75dec6c",
     "minBridge": "1000000000000000000"
+  },
+  {
+    "name": "Wrapped BTC",
+    "symbol": "dBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
+    "originChainId": 1,
+    "fee": "0",
+    "originContractAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "originSymbol": "WBTC",
+    "contractHash": "3e46fdbcd0e5882ef2130456195f1658f02789b4b69a8e8e1dde773c2565555a",
+    "minBridge": "400000",
+    "paymentAmount": "4500000000"
+  },
+  {
+    "name": "PEPE",
+    "symbol": "dPEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725",
+    "originChainId": 1,
+    "fee": "0",
+    "originContractAddress": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "originSymbol": "PEPE",
+    "contractHash": "7d903cf78d9e34d40e4dd5371aa9a8f51c13312d7c2ea42d741e83ef71889014",
+    "minBridge": "65000000000000000000000000",
+    "paymentAmount": "4500000000"
+  },
+  {
+    "name": "LDO",
+    "symbol": "dLDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png?1609873644",
+    "originChainId": 1,
+    "fee": "0",
+    "originContractAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "originSymbol": "LDO",
+    "contractHash": "8290f0f8eef53dcde636439a2e5d1cd7e27ea44575b784b15a4559264bbcead5",
+    "minBridge": "40000000000000000000",
+    "paymentAmount": "4500000000"
+  },
+  {
+    "name": "stETH",
+    "symbol": "dstETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546",
+    "originChainId": 1,
+    "fee": "0",
+    "originContractAddress": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "originSymbol": "stETH",
+    "contractHash": "469e4026741a02bca701ce6dc8abe26484563bdac772337fc9fcd307792c54e2",
+    "minBridge": "5000000000000000",
+    "paymentAmount": "4500000000"
+  },
+  {
+    "name": "LUSD",
+    "symbol": "dLUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14666/small/Group_3.png?1617631327",
+    "originChainId": 1,
+    "fee": "0",
+    "originContractAddress": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "originSymbol": "LUSD",
+    "contractHash": "f2639037e934a2bbe7bb389d2cb262caad5c5a5e150509b27da4286842baeeeb",
+    "minBridge": "100000000000000000000",
+    "paymentAmount": "4500000000"
   }
 ]
