@@ -26,7 +26,6 @@
     "symbol": "FTERC20",
     "decimals": 18,
     "originChainId": 96945816564243,
-    "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
-    "supportedChainIds": [96945816564243, 43113]
+    "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259"
   }
 ]
