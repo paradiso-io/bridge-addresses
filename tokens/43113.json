@@ -19,5 +19,14 @@
     "symbol": "WBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+  },
+  {
+    "name": "FTERC20",
+    "address": "0x29Bb50C806fEb7f5fbE29884b7513De7CA4803F6",
+    "symbol": "FTERC20",
+    "decimals": 18,
+    "originChainId": 96945816564243,
+    "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
+    "supportedChainIds": [96945816564243, 43113]
   }
 ]
