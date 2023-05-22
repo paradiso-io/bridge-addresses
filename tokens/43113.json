@@ -27,5 +27,14 @@
     "decimals": 18,
     "originChainId": 96945816564243,
     "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259"
+  },
+  {
+    "name": "CasperSwap Token",
+    "address": "0xd3a82A8f827FD41Ff6E2972e74D2069837d65713",
+    "symbol": "CST",
+    "logoURI": "https://testnet.casperswap.xyz/static/media/casperswap.cc222183e3d9ac570d23.png",
+    "decimals": 18,
+    "originChainId": 96945816564243,
+    "contractPackageHash": "995947f349c23a1812f6c7702e75eb95afabdb5f389f150e4ddb91c9de6225f0"
   }
 ]
