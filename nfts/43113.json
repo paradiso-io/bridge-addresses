@@ -27,12 +27,12 @@
   },
   {
     "name": "CEP78 Faucet",
-    "address": "0x0e40409824c9E1C53e5aBAD37c1B12A84181eD5e",
+    "address": "0x5b1F0107525573c495560D26197fd77fC06De78B",
     "symbol": "dCEPF",
     "type": "ERC721",
     "originChainId": 96945816564243,
-    "contractHash": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
-    "originContractAddress": "68d05b72593981f73f5ce7ce5dcac9033aa0ad4e8c93b773f8b939a18c0bbc3b",
+    "contractHash": "3a100016a814263b64223357b169ac94ff84d1fd5826efaf1935543287066fc1",
+    "originContractAddress": "3a100016a814263b64223357b169ac94ff84d1fd5826efaf1935543287066fc1",
     "originSymbol": "dtoNFTCEP78",
     "originName": "dtoCEP78"
   }
