@@ -27,7 +27,7 @@
   },
   {
     "name": "CEP78 Faucet",
-    "address": "0xec83b9dd29d22d53870afc9223689294dc2153d1",
+    "address": "0x5b1F0107525573c495560D26197fd77fC06De78B",
     "symbol": "dCEPF",
     "type": "ERC721",
     "originChainId": 96945816564243,
