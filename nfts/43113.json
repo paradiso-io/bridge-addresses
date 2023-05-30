@@ -31,8 +31,7 @@
     "symbol": "dCEPF",
     "type": "ERC721",
     "originChainId": 96945816564243,
-    "contractHash": "3a100016a814263b64223357b169ac94ff84d1fd5826efaf1935543287066fc1",
-    "originContractAddress": "3a100016a814263b64223357b169ac94ff84d1fd5826efaf1935543287066fc1",
+    "contractPackageHash": "efe6c78ee5b585da7105e037855c5f6b26e88da7782c002595fe952b4294baac",
     "originSymbol": "dtoNFTCEP78",
     "originName": "dtoCEP78"
   }
