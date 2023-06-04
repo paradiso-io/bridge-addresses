@@ -1,5 +1,11 @@
 [
   {
+    "originChainId": 96945816564243,
+    "contractPackageHash": "efe6c78ee5b585da7105e037855c5f6b26e88da7782c002595fe952b4294baac",
+    "originSymbol": "Faucet",
+    "originName": "Cep78 Faucet"
+  },
+  {
     "originChainId": 43113,
     "contractPackageHash": "1b2b808483e7aa451b8aadeca70354675f838e044841b6bb597e538d6774d7fc",
     "originContractAddress": "0x564D49e680DE8C34d3aB34c0976eb8FF0272a4a8",
@@ -26,11 +32,5 @@
     "originContractAddress": "0xc1257078d620eC14c435B089Af938E77662Ff027",
     "originSymbol": "PFT",
     "originName": "PFT Faucet"
-  },
-  {
-    "originChainId": 96945816564243,
-    "contractPackageHash": "efe6c78ee5b585da7105e037855c5f6b26e88da7782c002595fe952b4294baac",
-    "originSymbol": "Faucet",
-    "originName": "Cep78 Faucet"
   }
 ]
