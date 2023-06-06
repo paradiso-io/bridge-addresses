@@ -9,6 +9,15 @@
     "supportedChainIds": [131614895977472, 56]
   },
   {
+    "name": "CasperSwap Token",
+    "symbol": "CST",
+    "decimals": 9,
+    "originChainId": 131614895977472,
+    "contractPackageHash": "b9b912b1f4a2d4171dff3e04b20a8f6f4f0f2d79dfb782de988145ce257ae639",
+    "fee": "0",
+    "supportedChainIds": [131614895977472, 1]
+  },
+  {
     "name": "Ethereum",
     "symbol": "dETH",
     "decimals": 18,
