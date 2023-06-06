@@ -14,5 +14,13 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766",
     "minBridge": "15000000000000000000"
+  },
+  {
+    "name": "Casper Faucet Token",
+    "address": "0xa4F1540c3bEdC3235Fd17A704338ab588541Bf5f",
+    "symbol": "CFT",
+    "decimals": 18,
+    "originChainId": 131614895977472,
+    "contractPackageHash": "1c94e774e46728bb59ada9e9443b0db0731ef931c63905b6e7f6fe3f9f333cf0"
   }
 ]
