@@ -6,7 +6,7 @@
     "originChainId": 131614895977472,
     "contractPackageHash": "1c94e774e46728bb59ada9e9443b0db0731ef931c63905b6e7f6fe3f9f333cf0",
     "fee": "0",
-    "gas": "14000000000",
+    "gasFee": "14000000000",
     "supportedChainIds": [131614895977472, 56]
   },
   {
