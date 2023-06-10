@@ -8,6 +8,13 @@
     "minBridge": "1000000000000000"
   },
   {
+    "name": "Wrapped BTC",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+  },
+  {
     "name": "Tether USD",
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "symbol": "USDT",
@@ -110,13 +117,6 @@
     "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "minBridge": "100000000000000000000",
     "paymentAmount": "4500000000"
-  },
-  {
-    "name": "Wrapped BTC",
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
   },
   {
     "name": "CasperSwap Token",
