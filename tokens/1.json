@@ -112,6 +112,13 @@
     "paymentAmount": "4500000000"
   },
   {
+    "name": "Wrapped BTC",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+  },
+  {
     "name": "CasperSwap Token",
     "address": "0xF685a5Ab5A972965B7c2B28742190D1E2b0b1BfA",
     "symbol": "CST",
