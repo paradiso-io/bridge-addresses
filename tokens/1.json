@@ -1,18 +1,18 @@
 [
   {
+    "name": "Wrapped BTC",
+    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+  },
+  {
     "name": "Ethereum",
     "address": "0x1111111111111111111111111111111111111111",
     "symbol": "ETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
     "minBridge": "1000000000000000"
-  },
-  {
-    "name": "Wrapped BTC",
-    "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
   },
   {
     "name": "Tether USD",
