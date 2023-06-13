@@ -1,6 +1,46 @@
 [
   {
     "address": "0x1111111111111111111111111111111111111111",
+    "chainId": 97,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
+  },
+  {
+    "address": "0x1111111111111111111111111111111111111111",
+    "chainId": 42,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "address": "0x1111111111111111111111111111111111111111",
+    "chainId": 89,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/tomochain/info/logo.png"
+  },
+  {
+    "address": "0x1111111111111111111111111111111111111111",
+    "chainId": 80001,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png"
+  },
+  {
+    "address": "0x1111111111111111111111111111111111111111",
+    "chainId": 43113,
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png"
+  },
+  {
+    "address": "0x1111111111111111111111111111111111111111",
+    "chainId": 1287,
+    "logoURI": "https://docs.moonbeam.network/assets/images/Moonbeam-Favicon-50.png"
+  },
+  {
+    "address": "0x163e98bae55ebac01bfe63b1eaa9078e548f6a05",
+    "chainId": 43113,
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png"
+  },
+  {
+    "address": "995947f349c23a1812f6c7702e75eb95afabdb5f389f150e4ddb91c9de6225f0",
+    "chainId": 96945816564243,
+    "logoURI": "https://testnet.casperswap.xyz/static/media/casperswap.cc222183e3d9ac570d23.png"
+  },
+  {
+    "address": "0x1111111111111111111111111111111111111111",
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
