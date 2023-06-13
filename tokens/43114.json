@@ -12,7 +12,7 @@
     "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
     "symbol": "PTP",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/21724/small/7r2U_2Ig_400x400.jpg?1639961666",
+    "logoURI": "https://assets.coingecko.com/coins/images/21724/small/7r2U_2Ig_400x400.jpg",
     "minBridge": "50000000000000000000"
   }
 ]

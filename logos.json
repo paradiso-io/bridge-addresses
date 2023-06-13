@@ -1,0 +1,118 @@
+[
+  {
+    "address": "0x1f669D103f5503756C9c3c46d67440442A2EaDfA",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "address": "012f8f3689ddf5c7a92ddeb54a311afb660051bb5fab3568dbb3d796809be8c6",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "address": "0x77590Cd0C983d2BAaEF88d4ce9A3e0cF74F1E750",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "address": "48bd364532febf044cca8d2d716336b93d27458ce0aa48ad292ca28304fa8649",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "address": "0x7087D06541Fb677B811Eb140dFBCAe1dfd9F84c8",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "address": "b53fa728c7074c84f35407f4d0989eb4133d391402b7ce13b7feeb01479a4f01",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "address": "4f88bfbc950eca6c376d3e06cd78623d232c54a67dcba220469dda68598e3658",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "address": "94ca1d8fd862ec0a892ef30f6b1b1323af18059e14fb1372dd8bedd3e58df7aa",
+    "logoURI": "https://assets.coingecko.com/coins/images/19527/large/84438129.png"
+  },
+  {
+    "address": "3f5733a5c06b6d2465937aae5b8408b4076fed6108183427100786a2cba0bf98",
+    "logoURI": "https://raw.githubusercontent.com/dotoracle/bridge-addresses/main/assets/frax-share.png"
+  },
+  {
+    "address": "a53e16b53362a8108b2ff96fc41950a44b863866b519d37a622a82508e4ecea6",
+    "logoURI": "https://raw.githubusercontent.com/dotoracle/bridge-addresses/main/assets/frax-share.png"
+  },
+  {
+    "address": "0xDFA79bb4F47f424aC40FbBFC84Fe2c5a7E80509C",
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png"
+  },
+  {
+    "address": "3e4bb72c703b79d287fbf14ad03d7c56f017db6fd2400e9bf8ab47c0f7bf6471",
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png"
+  },
+  {
+    "address": "0x7087D06541Fb677B811Eb140dFBCAe1dfd9F84c8",
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
+  },
+  {
+    "address": "754c00d99e8543a99b38ea826e4ef19d7f42802bc82c55ae93d8f83e89b0127d",
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
+  },
+  {
+    "address": "0x2aC94b6e3C1DaC056C2AF1aBE14A4271675b5dCE",
+    "logoURI": "https://assets.coingecko.com/coins/images/22459/large/glmr.png"
+  },
+  {
+    "address": "81e56d85da85bc81cc342d82145987b58600c8d3d8b6fb1ef34c9ec4111f9b25",
+    "logoURI": "https://assets.coingecko.com/coins/images/22459/large/glmr.png"
+  },
+  {
+    "address": "0x77590Cd0C983d2BAaEF88d4ce9A3e0cF74F1E750",
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "address": "0xDFA79bb4F47f424aC40FbBFC84Fe2c5a7E80509C",
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "address": "77130218797b64a166a5c63065a1165096bc303bea1fae0a96c6575a3f750cd8",
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "address": "137b8322baf4db77c76053883f0d53c6f5960ac8ff311292cc3650bff1274f2f",
+    "logoURI": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png"
+  },
+  {
+    "address": "9b47978ab586068ee8568ecbb8bf5057b1ed2af069252226fd6311121f614e70",
+    "logoURI": "https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png"
+  },
+  {
+    "address": "0x22d4002028f537599be9f666d1c4fa138522f9c8",
+    "logoURI": "https://assets.coingecko.com/coins/images/21724/small/7r2U_2Ig_400x400.jpg"
+  },
+  {
+    "address": "5488edc536444f8f28d8a565f7cc0cec2f69d5f9ceac364990b5ea327fdb15ce",
+    "logoURI": "https://assets.coingecko.com/coins/images/21724/small/7r2U_2Ig_400x400.jpg"
+  },
+  {
+    "address": "846bdd17135c450e3d066f44b6c48d32fdb4bb43e937f03ba43475d1e75dec6c",
+    "logoURI": "https://assets.coingecko.com/coins/images/13708/small/WeChat_Image_20220118095654.png"
+  },
+  {
+    "address": "3e46fdbcd0e5882ef2130456195f1658f02789b4b69a8e8e1dde773c2565555a",
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+  },
+  {
+    "address": "7d903cf78d9e34d40e4dd5371aa9a8f51c13312d7c2ea42d741e83ef71889014",
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg"
+  },
+  {
+    "address": "8290f0f8eef53dcde636439a2e5d1cd7e27ea44575b784b15a4559264bbcead5",
+    "logoURI": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png"
+  },
+  {
+    "address": "469e4026741a02bca701ce6dc8abe26484563bdac772337fc9fcd307792c54e2",
+    "logoURI": "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png"
+  },
+  {
+    "address": "f2639037e934a2bbe7bb389d2cb262caad5c5a5e150509b27da4286842baeeeb",
+    "logoURI": "https://assets.coingecko.com/coins/images/14666/small/Group_3.png"
+  }
+]
