@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "originChainId": 131614895977472,
+    "contractPackageHash": "ad0cd4ef3cfd9e7222706786e51773af771f063ecce4606282999a7a6d6ac495",
+    "originSymbol": "CP-GENERATION-1",
+    "originName": "CasperPunks Generation 1"
+  }
+]
