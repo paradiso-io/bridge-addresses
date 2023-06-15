@@ -143,5 +143,10 @@
     "address": "b9b912b1f4a2d4171dff3e04b20a8f6f4f0f2d79dfb782de988145ce257ae639",
     "chainId": 131614895977472,
     "logoURI": "https://testnet.casperswap.xyz/static/media/casperswap.cc222183e3d9ac570d23.png"
+  },
+  {
+    "address": "ad0cd4ef3cfd9e7222706786e51773af771f063ecce4606282999a7a6d6ac495",
+    "chainId": 131614895977472,
+    "logoURI": "https://raw.githubusercontent.com/dotoracle/bridge-addresses/main/assets/casper-punks.jpg"
   }
 ]
