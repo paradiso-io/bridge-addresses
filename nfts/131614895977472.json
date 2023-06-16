@@ -5,5 +5,12 @@
     "originSymbol": "CP-GENERATION-1",
     "originName": "CasperPunks Generation 1",
     "logoURI": "https://raw.githubusercontent.com/dotoracle/bridge-addresses/main/assets/casper-punks.jpg"
+  },
+  {
+    "originChainId": 56,
+    "contractPackageHash": "5ebe36b0efc430e477133dbe73b4e0d2a882b42f99faf710c497b8c8fe5d2b44",
+    "originContractAddress": "0x12bae03961b4bc64b7ce7623145ec0d2fce8c828",
+    "originSymbol": "FakeForTest",
+    "originName": "Fake NFT for Testing"
   }
 ]
