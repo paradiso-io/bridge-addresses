@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Fake NFT for Testing",
+    "address": "0x12bae03961b4bc64b7ce7623145ec0d2fce8c828",
+    "symbol": "FakeForTest",
+    "type": "ERC721"
+  }
+]
