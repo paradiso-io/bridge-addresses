@@ -12,5 +12,12 @@
     "symbol": "ERC20Mock",
     "decimals": 18,
     "logoURI": ""
+  },
+  {
+    "name": "BNB",
+    "address": "0x1986D7fD4C3Fadf7748037aE82E290b073D416ae",
+    "symbol": "dBNB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
   }
 ]
