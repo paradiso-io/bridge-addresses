@@ -36,5 +36,12 @@
     "decimals": 18,
     "originChainId": 96945816564243,
     "contractPackageHash": "995947f349c23a1812f6c7702e75eb95afabdb5f389f150e4ddb91c9de6225f0"
+  },
+  {
+    "name": "BNB",
+    "address": "0x6fa6fa85D692F6956064C398C3918a4Bff2c1De3",
+    "symbol": "dBNB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
   }
 ]
