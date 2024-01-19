@@ -6,7 +6,10 @@
     "originChainId": 96945816564243,
     "contractPackageHash": "a4fc3a16bd5431873ac121257d4c7f1d04b8db24229266ebce731d3417f38259",
     "fee": "0",
-    "supportedChainIds": [96945816564243, 43113]
+    "supportedChainIds": [
+      96945816564243,
+      43113
+    ]
   },
   {
     "name": "CasperSwap Token",
@@ -17,7 +20,10 @@
     "logoURI": "https://testnet.casperswap.xyz/static/media/casperswap.cc222183e3d9ac570d23.png",
     "fee": "0",
     "gasFee": "14000000000",
-    "supportedChainIds": [96945816564243, 43113]
+    "supportedChainIds": [
+      96945816564243,
+      43113
+    ]
   },
   {
     "name": "BNB",
@@ -95,5 +101,24 @@
     "originSymbol": "WBTC",
     "originContractAddress": "0x163e98bAe55ebAc01bFE63B1EAa9078E548f6a05",
     "contractHash": "27dcb2efc403047a3f9fdad8acf879e3630706c9a38d28b8ef44201b1581fb3e"
+  },
+  {
+    "name": "mBNB",
+    "symbol": "mBNB",
+    "decimals": 18,
+    "originContractAddresses": [
+      {
+        "address": "0x6fa6fa85D692F6956064C398C3918a4Bff2c1De3",
+        "originChainId": 43113
+      },
+      {
+        "address": "0x1986D7fD4C3Fadf7748037aE82E290b073D416ae",
+        "originChainId": 89
+      }
+    ],
+    "fee": "1000000000000000",
+    "originSymbol": "BNB",
+    "contractHash": "6ef71f39177ab8a557a1e8cd23bff8efdd40a335b7aa13c2ff47e2a98737bf36",
+    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
   }
 ]
