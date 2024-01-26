@@ -13,5 +13,13 @@
     "symbol": "ERC20Mock",
     "decimals": 18,
     "logoURI": ""
+  },
+  {
+    "name": "USDT",
+    "address": "0xe37Bdc6F09DAB6ce6E4eBC4d2E72792994Ef3765",
+    "contractHash": "c9fec03ea5a84a79cdd72ea70105b94b8f578f4dc13f4141769dcb3feeb800d0",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
 ]

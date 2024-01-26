@@ -43,5 +43,12 @@
     "symbol": "dBNB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
+  },
+  {
+    "name": "USDT",
+    "address": "0x144843929Df063312A083DB6f0a0FF5697ABED4a",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
 ]

@@ -103,22 +103,23 @@
     "contractHash": "27dcb2efc403047a3f9fdad8acf879e3630706c9a38d28b8ef44201b1581fb3e"
   },
   {
-    "name": "multiBNB",
-    "symbol": "multiBNB",
-    "decimals": 18,
+    "name": "USDT",
+    "symbol": "mUSDT",
+    "decimals": 6,
+    "fee": "10000",
     "originContractAddresses": [
       {
-        "address": "0x6fa6fa85D692F6956064C398C3918a4Bff2c1De3",
+        "address": "0x144843929Df063312A083DB6f0a0FF5697ABED4a",
         "originChainId": 43113
       },
       {
-        "address": "0x1986D7fD4C3Fadf7748037aE82E290b073D416ae",
-        "originChainId": 89
+        "address": "0xe37Bdc6F09DAB6ce6E4eBC4d2E72792994Ef3765",
+        "originChainId": 97
       }
     ],
-    "fee": "1000000000000000",
-    "originSymbol": "BNB",
-    "contractHash": "cead4c2f5a08a3b879f1be9de512bdfefc8d15ead591af1d94a69aef83195dcf",
-    "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png"
+    "originSymbol": "USDT",
+    "contractHash": "c9fec03ea5a84a79cdd72ea70105b94b8f578f4dc13f4141769dcb3feeb800d0",
+    "paymentAmount": "3000000000",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
 ]
