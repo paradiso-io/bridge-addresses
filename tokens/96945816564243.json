@@ -118,7 +118,7 @@
       }
     ],
     "originSymbol": "USDT",
-    "contractHash": "c9fec03ea5a84a79cdd72ea70105b94b8f578f4dc13f4141769dcb3feeb800d0",
+    "contractHash": "aa6438db22656bfa4d4ee8af4d81151ac829a3ed65892c7521b75f948c66cb07",
     "paymentAmount": "3000000000",
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
