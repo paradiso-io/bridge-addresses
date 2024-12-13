@@ -22,5 +22,12 @@
     "decimals": 18,
     "originChainId": 131614895977472,
     "contractPackageHash": "1c94e774e46728bb59ada9e9443b0db0731ef931c63905b6e7f6fe3f9f333cf0"
-  }
+  },
+  {
+    "name": "AI Agents",
+    "address": "0xaDCDBCb0db9EDF31509971f64F0A8E0Fc53B384D",
+    "symbol": "$AIAGENT",
+    "decimals": 18,
+    "minBridge": "10000000000000000000000"
+  },
 ]
