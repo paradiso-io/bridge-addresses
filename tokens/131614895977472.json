@@ -263,5 +263,18 @@
     "contractHash": "f2639037e934a2bbe7bb389d2cb262caad5c5a5e150509b27da4286842baeeeb",
     "minBridge": "100000000000000000000",
     "paymentAmount": "4500000000"
+  },
+  {
+    "name": "AI Agents",
+    "symbol": "$AIAGENT",
+    "decimals": 18,
+    "logoURI": "",
+    "originChainId": 56,
+    "fee": "0",
+    "originContractAddress": "0xaDCDBCb0db9EDF31509971f64F0A8E0Fc53B384D",
+    "originSymbol": "$AIAGENT",
+    "contractHash": "a1b3018d2263069efd1508a0c1fe013dd0d1fe03e20873c5a4f4cadab132660e",
+    "minBridge": "10000000000000000000000",
+    "paymentAmount": "4500000000"
   }
 ]
