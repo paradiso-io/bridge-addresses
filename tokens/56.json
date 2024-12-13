@@ -29,5 +29,5 @@
     "symbol": "$AIAGENT",
     "decimals": 18,
     "minBridge": "10000000000000000000000"
-  },
+  }
 ]
